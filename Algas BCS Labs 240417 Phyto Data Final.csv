@@ -1,0 +1,254 @@
+ID,Name,Date,Genus,Species,Algal Group,Unit,Cells/Unit,Cell Biovolume (µm3),Species Units/mL,Species Cells/mL,Species Biovolume (µm3/mL)
+24-001,GRAW,04/17/24,Aulacoseira,granulata,Bacillariophyta,filament,5,"10,053.1",7,37,"371,965"
+24-001,GRAW,04/17/24,Acanthoceras,zachariasii,Bacillariophyta,cell,1,"4,188.8",30,30,"124,985"
+24-001,GRAW,04/17/24,Ulnaria,ulna,Bacillariophyta,cell,1,"2,412.7",16,16,"38,603"
+24-001,GRAW,04/17/24,Navicula,cf. cryptocephala,Bacillariophyta,cell,1,443.3,60,60,"26,454"
+24-001,GRAW,04/17/24,Fragilaria,sp.,Bacillariophyta,cell,1,64.3,119,119,"7,674"
+24-001,GRAW,04/17/24,Actinocyclus,normanii,Bacillariophyta,cell,1,"6,434.0",1,1,"6,434"
+24-001,GRAW,04/17/24,Aulacoseira,granulata v. angustissima,Bacillariophyta,filament,4,772.1,2,8,"6,177"
+24-001,GRAW,04/17/24,centric diatom,sp.,Bacillariophyta,cell,1,25.3,209,209,"5,284"
+24-001,GRAW,04/17/24,Enyconema,minutum,Bacillariophyta,cell,1,171.6,30,30,"5,120"
+24-001,GRAW,04/17/24,Cocconeis,placentula,Bacillariophyta,cell,1,"2,513.3",2,2,"5,027"
+24-001,GRAW,04/17/24,Fragilaria,cf. crotonensis,Bacillariophyta,cell,1,470.5,10,10,"4,705"
+24-001,GRAW,04/17/24,Navicula,sp.,Bacillariophyta,cell,1,923.6,4,4,"3,694"
+24-001,GRAW,04/17/24,pennate diatom,sp.,Bacillariophyta,cell,1,67.6,30,30,"2,017"
+24-001,GRAW,04/17/24,pennate diatom,sp.,Bacillariophyta,cell,1,23.0,60,60,"1,373"
+24-001,GRAW,04/17/24,Nitzschia,acicularis,Bacillariophyta,cell,1,143.7,7,7,"1,006"
+24-001,GRAW,04/17/24,Stephanocyclus,meneghiniana,Bacillariophyta,cell,1,844.5,1,1,845
+24-001,GRAW,04/17/24,Achnanthidium,sp.,Bacillariophyta,cell,1,9.9,60,60,591
+24-001,GRAW,04/17/24,Urosolenia,eriensis,Bacillariophyta,cell,1,13.1,30,30,391
+24-001,GRAW,04/17/24,Mougeotia,sp.,Charophyta,filament,2,643.4,1,2,"1,287"
+24-001,GRAW,04/17/24,Staurastrum,tetracerum,Charophyta,cell,1,183.9,1,1,184
+24-001,GRAW,04/17/24,Koliella,longiseta,Chlorophyta,cell,1,69.3,60,60,"4,136"
+24-001,GRAW,04/17/24,chlorophyte unicell,sp.,Chlorophyta,cell,1,11.5,358,358,"4,118"
+24-001,GRAW,04/17/24,Tetraedron,minimum,Chlorophyta,cell,1,87.4,30,30,"2,608"
+24-001,GRAW,04/17/24,Monoraphidium,sp.,Chlorophyta,cell,1,9.7,60,60,579
+24-001,GRAW,04/17/24,Ankistrodesmus,fusiformis,Chlorophyta,cell,1,30.8,1,1,31
+24-001,GRAW,04/17/24,Pseudanabaena,limnetica,Cyanobacteria,filament,25,8.6,38,943,"8,110"
+24-001,GRAW,04/17/24,cyanophyte unicell,sp.,Cyanobacteria,cell,1,92.0,30,30,"2,745"
+24-001,GRAW,04/17/24,Planktolyngbya,sp.,Cyanobacteria,filament,32,2.3,30,955,"2,196"
+24-001,GRAW,04/17/24,Cyanogranis,ferruginea,Cyanobacteria,colony,8,0.9,239,"1,910","1,719"
+24-001,GRAW,04/17/24,oscillatorialean filament,sp.,Cyanobacteria,filament,3,3.7,149,448,"1,656"
+24-001,GRAW,04/17/24,Raphidiopsis,raciborskii,Cyanobacteria,filament,36,17.6,1,36,634
+24-001,GRAW,04/17/24,Synechococcus,sp.,Cyanobacteria,cell,1,8.8,60,60,525
+24-001,GRAW,04/17/24,Ceratium,furcoides,Dinophyceae,cell,1,"50,265.5",1,1,"50,266"
+24-002,PRAW,04/17/24,Aulacoseira,granulata,Bacillariophyta,filament,5,"10,053.1",19,93,"934,938"
+24-002,PRAW,04/17/24,Actinocyclus,normanii,Bacillariophyta,cell,1,"12,566.4",16,16,"201,062"
+24-002,PRAW,04/17/24,Actinocyclus,normanii,Bacillariophyta,cell,1,"4,310.3",13,13,"56,034"
+24-002,PRAW,04/17/24,Aulacoseira,granulata v. angustissima,Bacillariophyta,filament,6,"1,773.4",4,26,"46,108"
+24-002,PRAW,04/17/24,Nitzschia,closterium,Bacillariophyta,cell,1,171.6,179,179,"30,721"
+24-002,PRAW,04/17/24,Fragilaria,crotonensis,Bacillariophyta,cell,1,422.2,60,60,"25,195"
+24-002,PRAW,04/17/24,Actinocyclus,normanii,Bacillariophyta,cell,1,"1,221.5",13,13,"15,880"
+24-002,PRAW,04/17/24,centric diatom,sp.,Bacillariophyta,cell,1,39.4,298,298,"11,756"
+24-002,PRAW,04/17/24,Chaetoceros,sp.,Bacillariophyta,cell,1,77.6,119,119,"9,262"
+24-002,PRAW,04/17/24,Fragilaria,sp.,Bacillariophyta,cell,1,628.3,9,9,"5,655"
+24-002,PRAW,04/17/24,Ulnaria,ulna,Bacillariophyta,cell,1,"1,231.5",1,1,"1,232"
+24-002,PRAW,04/17/24,Nitzschia,sp.,Bacillariophyta,cell,1,857.9,1,1,858
+24-002,PRAW,04/17/24,Aulacoseira,granulata v. curvata,Bacillariophyta,filament,4,147.8,1,4,591
+24-002,PRAW,04/17/24,Synedra,nana,Bacillariophyta,cell,1,58.6,3,3,176
+24-002,PRAW,04/17/24,Closterium,aciculare,Charophyta,cell,1,670.2,61,61,"40,882"
+24-002,PRAW,04/17/24,Staurastrum,tetracerum,Charophyta,cell,1,205.8,30,30,"6,141"
+24-002,PRAW,04/17/24,Mougeotia,sp.,Charophyta,filament,2,754.0,1,2,"1,508"
+24-002,PRAW,04/17/24,Closterium,acutum,Charophyta,cell,1,201.1,4,4,804
+24-002,PRAW,04/17/24,Staurastrum,cf. micron,Charophyta,cell,1,698.1,1,1,698
+24-002,PRAW,04/17/24,Staurastrum,tectum v. ayayensis,Charophyta,cell,1,698.1,1,1,698
+24-002,PRAW,04/17/24,Cosmarium,cf. abbreviatum,Charophyta,cell,1,210.2,2,2,420
+24-002,PRAW,04/17/24,Koliella,longiseta,Chlorophyta,cell,1,50.9,149,149,"7,594"
+24-002,PRAW,04/17/24,Oocystis,sp.,Chlorophyta,cell,1,34.3,209,209,"7,164"
+24-002,PRAW,04/17/24,Didymocystis,sp.,Chlorophyta,colony,2,37.5,90,179,"6,714"
+24-002,PRAW,04/17/24,Siderocelis,ornata,Chlorophyta,cell,1,137.3,30,30,"4,097"
+24-002,PRAW,04/17/24,chlorophyte unicell,sp.,Chlorophyta,cell,1,2.1,"1,790","1,790","3,760"
+24-002,PRAW,04/17/24,Koliella,sp.,Chlorophyta,cell,1,18.5,90,90,"1,656"
+24-002,PRAW,04/17/24,Crucigenia,quadrata,Chlorophyta,colony,4,7.3,30,119,871
+24-002,PRAW,04/17/24,Monoraphidum,irregulare,Chlorophyta,cell,1,6.3,119,119,752
+24-002,PRAW,04/17/24,Scenedesmus,sp.,Chlorophyta,colony,4,4.3,30,119,513
+24-002,PRAW,04/17/24,chrysophyte flagellate,sp.,Chrysophyceae,cell,1,38.8,90,90,"3,473"
+24-002,PRAW,04/17/24,Raphidiopsis,raciborskii,Cyanobacteria,filament,9,29.6,169,"1,522","45,043"
+24-002,PRAW,04/17/24,Planktolyngbya,sp.,Cyanobacteria,filament,34,2.3,394,"13,397","30,814"
+24-002,PRAW,04/17/24,Synechococcus,sp.,Cyanobacteria,cell,1,2.3,"8,056","8,056","18,529"
+24-002,PRAW,04/17/24,cf. Aphanizomenon,sp.,Cyanobacteria,filament,17,38.6,17,293,"11,310"
+24-002,PRAW,04/17/24,Pseudanabaena,limnetica,Cyanobacteria,filament,3,9.9,269,806,"7,976"
+24-002,PRAW,04/17/24,Chroococcus,sp.,Cyanobacteria,colony,32,4.2,30,955,"4,010"
+24-002,PRAW,04/17/24,Aphanocapsa,sp.,Cyanobacteria,colony,24,0.9,119,"2,864","2,578"
+24-002,PRAW,04/17/24,Cyanogranis,ferruginea,Cyanobacteria,colony,8,0.9,328,"2,626","2,363"
+24-002,PRAW,04/17/24,Gloeocapsa,sp.,Cyanobacteria,colony,6,180.2,1,8,"1,442"
+24-002,PRAW,04/17/24,cyanophyte unicell,sp.,Cyanobacteria,cell,1,17.2,30,30,513
+24-003,B1,04/17/24,Pseudanabaena,limnetica,Cyanobacteria,filament,2,14.8,30,60,883
+24-004,MFPFILTRO-E9,04/17/24,Actinocyclus,normanii,Bacillariophyta,cell,1,"6,434.0",2,2,"12,868"
+24-004,MFPFILTRO-E9,04/17/24,Nitzschia,closterium,Bacillariophyta,cell,1,143.7,1,1,144
+24-004,MFPFILTRO-E9,04/17/24,Botryococcus,braunii,Chlorophyta,colony,1,"4,825.5",1,1,"4,826"
+24-004,MFPFILTRO-E9,04/17/24,Pseudanabaena,limnetica,Cyanobacteria,filament,5,9.9,5,27,267
+24-005,MFPFILTRO-W9,04/17/24,Actinocyclus,normanii,Bacillariophyta,cell,1,"5,301.4",2,2,"10,603"
+24-005,MFPFILTRO-W9,04/17/24,Fragilaria,crotonensis,Bacillariophyta,cell,1,434.3,1,1,434
+24-005,MFPFILTRO-W9,04/17/24,Nitzschia,closterium,Bacillariophyta,cell,1,143.7,2,2,287
+24-005,MFPFILTRO-W9,04/17/24,chlorophyte unicell,sp.,Chlorophyta,cell,1,1.6,"4,177","4,177","6,684"
+24-005,MFPFILTRO-W9,04/17/24,chlorophyte unicell,sp.,Chlorophyta,cell,1,57.9,30,30,"1,728"
+24-005,MFPFILTRO-W9,04/17/24,Koliella,longiseta,Chlorophyta,cell,1,39.6,3,3,119
+24-005,MFPFILTRO-W9,04/17/24,Pseudanabaena,limnetica,Cyanobacteria,filament,8,9.9,28,222,"2,198"
+24-005,MFPFILTRO-W9,04/17/24,Raphidiopsis,raciborskii,Cyanobacteria,filament,10,39.4,3,31,"1,221"
+24-006,CR-LAB,04/17/24,Cyclotella,sp.,Bacillariophyta,cell,1,39.4,239,239,"9,405"
+24-006,CR-LAB,04/17/24,Navicula,sp.,Bacillariophyta,cell,1,364.6,1,1,365
+24-006,CR-LAB,04/17/24,Fragilaria,sp.,Bacillariophyta,cell,1,160.8,2,2,322
+24-006,CR-LAB,04/17/24,Nitzschia,sp.,Bacillariophyta,cell,1,31.4,1,1,31
+24-006,CR-LAB,04/17/24,Mougeotia,sp.,Charophyta,filament,2,643.4,7,14,"9,008"
+24-006,CR-LAB,04/17/24,Closterium,acutum,Charophyta,cell,1,184.7,12,12,"2,216"
+24-006,CR-LAB,04/17/24,Teilingia,granulatum,Charophyta,cell,1,45.8,30,30,"1,367"
+24-006,CR-LAB,04/17/24,Staurastrum,brachiatum,Charophyta,cell,1,563.0,2,2,"1,126"
+24-006,CR-LAB,04/17/24,Staurastrum,leptocladum,Charophyta,cell,1,698.1,1,1,698
+24-006,CR-LAB,04/17/24,Hariotina,reticulata v. cubanum,Chlorophyta,colony,8,57.9,30,239,"13,821"
+24-006,CR-LAB,04/17/24,Botryococcus,braunii,Chlorophyta,colony,1,"9,424.8",1,1,"9,425"
+24-006,CR-LAB,04/17/24,chlorophyte unicell,sp.,Chlorophyta,cell,1,4.2,"2,238","2,238","9,399"
+24-006,CR-LAB,04/17/24,Oocystis,sp.,Chlorophyta,cell,1,13.4,388,388,"5,198"
+24-006,CR-LAB,04/17/24,Chlorobium/Keratococcus,sp.,Chlorophyta,cell,1,100.5,30,30,"2,999"
+24-006,CR-LAB,04/17/24,Nephrochlamys,subsolitaria,Chlorophyta,cell,1,7.2,388,388,"2,793"
+24-006,CR-LAB,04/17/24,Didymocystis,sp.,Chlorophyta,colony,2,10.1,119,239,"2,411"
+24-006,CR-LAB,04/17/24,Desmodesmus,cf. brasiliensis,Chlorophyta,colony,4,7.8,60,239,"1,862"
+24-006,CR-LAB,04/17/24,Planctonema,lauterbornii,Chlorophyta,filament,6,39.4,8,46,"1,812"
+24-006,CR-LAB,04/17/24,Tetraedron,caudatum,Chlorophyta,cell,1,58.5,30,30,"1,746"
+24-006,CR-LAB,04/17/24,chlorophyte unicell,sp.,Chlorophyta,cell,1,57.9,30,30,"1,728"
+24-006,CR-LAB,04/17/24,Coelastrum,astroideum/pseudomicroproum,Chlorophyta,colony,16,57.9,1,16,926
+24-006,CR-LAB,04/17/24,Siderocelis,ornata,Chlorophyta,cell,1,22.9,30,30,683
+24-006,CR-LAB,04/17/24,Diacanthos,belenophorus,Chlorophyta,cell,1,643.4,1,1,643
+24-006,CR-LAB,04/17/24,Stichococcus,sp.,Chlorophyta,cell,1,10.5,60,60,627
+24-006,CR-LAB,04/17/24,Ankistrodesmus,fusiformis,Chlorophyta,cell,1,22.6,4,4,90
+24-006,CR-LAB,04/17/24,Ochromonas,sp.,Chrysophyceae,cell,1,735.6,30,30,"21,949"
+24-006,CR-LAB,04/17/24,chrysophyte flagellate,sp.,Chrysophyceae,cell,1,44.3,90,90,"3,965"
+24-006,CR-LAB,04/17/24,chrysophyte flagellate,sp.,Chrysophyceae,cell,1,11.5,149,149,"1,716"
+24-006,CR-LAB,04/17/24,Pseudokephyrion,sp.,Chrysophyceae,cell,1,22.5,30,30,671
+24-006,CR-LAB,04/17/24,Cyanogranis,ferruginea,Cyanobacteria,colony,8,0.9,"2,596","20,767","18,691"
+24-006,CR-LAB,04/17/24,Raphidiopsis,raciborskii,Cyanobacteria,filament,10,34.5,22,223,"7,694"
+24-006,CR-LAB,04/17/24,Limnoraphis/Oscillatoria,sp.,Cyanobacteria,filament,11,321.7,2,22,"7,077"
+24-006,CR-LAB,04/17/24,chlorophyte filament,sp.,Cyanobacteria,filament,1,138.5,30,30,"4,133"
+24-006,CR-LAB,04/17/24,Microcystis,sp.,Cyanobacteria,cell,1,92.0,30,30,"2,745"
+24-006,CR-LAB,04/17/24,Microcystis,sp.,Cyanobacteria,colony,10,92.0,1,10,920
+24-006,CR-LAB,04/17/24,Chroococcus,cf. deltoides,Cyanobacteria,colony,6,57.9,1,6,347
+24-006,CR-LAB,04/17/24,cyanophyte unicell,sp.,Cyanobacteria,cell,1,1.4,119,119,167
+24-006,CR-LAB,04/17/24,Chroococcus,sp.,Cyanobacteria,colony,8,4.2,2,14,59
+24-006,CR-LAB,04/17/24,Gymnodinium,sp.,Dinophyceae,cell,1,236.4,1,1,236
+24-006,CR-LAB,04/17/24,Trachelomonas,volvocina,Euglenozoa,cell,1,957.8,2,2,"1,916"
+24-006,CR-LAB,04/17/24,Goniochloris,sp.,Eustigmatophyceae,cell,1,"4,608.0",1,1,"4,608"
+24-007,EFL,04/17/24,NO ALGAE OBSERVED,,,,,,0,0,0
+24-008,MENFILTRO4,04/17/24,chlorophyte unicell,sp.,Chlorophyta,cell,1,2.1,209,209,439
+24-008,MENFILTRO4,04/17/24,Dictyosphaerium,primarium,Chlorophyta,colony,3,2.1,60,179,376
+24-008,MENFILTRO4,04/17/24,Planctonema,lauterbornii,Chlorophyta,filament,4,34.5,1,4,138
+24-008,MENFILTRO4,04/17/24,Chrysococcus,sp,Chrysophyceae,cell,1,463.2,1,1,463
+24-008,MENFILTRO4,04/17/24,Cyanogranis,ferruginea,Cyanobacteria,colony,8,0.9,119,955,859
+24-008,MENFILTRO4,04/17/24,Trachelomonas,volvocina,Euglenozoa,cell,1,"2,792.5",1,1,"2,793"
+24-009,MENFILTRO5,04/17/24,chlorophyte unicell,sp.,Chlorophyta,cell,1,17.2,179,179,"3,079"
+24-009,MENFILTRO5,04/17/24,Trachelomonas,volvocina,Euglenozoa,cell,1,"1,429.8",1,1,"1,430"
+24-010,AC,04/17/24,centric diatom,sp.,Bacillariophyta,cell,1,21.7,119,119,"2,590"
+24-010,AC,04/17/24,Achnanthidium,sp.,Bacillariophyta,cell,1,15.0,90,90,"1,343"
+24-010,AC,04/17/24,Urosolenia,eriensis,Bacillariophyta,cell,1,13.1,60,60,782
+24-010,AC,04/17/24,Nitzschia,closterium,Bacillariophyta,cell,1,147.8,2,2,296
+24-010,AC,04/17/24,Mougeotia,sp.,Charophyta,filament,2,831.3,1,2,"1,663"
+24-010,AC,04/17/24,Closterium,aciculare,Charophyta,cell,1,804.2,1,1,804
+24-010,AC,04/17/24,Closterium,acutum,Charophyta,cell,1,241.3,1,1,241
+24-010,AC,04/17/24,chlorophyte unicell,sp.,Chlorophyta,cell,1,11.5,"1,343","1,343","15,441"
+24-010,AC,04/17/24,Oocystis,sp.,Chlorophyta,cell,1,30.0,60,60,"1,790"
+24-010,AC,04/17/24,Monoraphidum,irregulare,Chlorophyta,cell,1,7.1,179,179,"1,271"
+24-010,AC,04/17/24,Hariotina,reticulata v. cubanum,Chlorophyta,colony,16,38.8,2,32,"1,242"
+24-010,AC,04/17/24,Crucigenia,quadrata,Chlorophyta,colony,4,7.3,30,119,871
+24-010,AC,04/17/24,Planktosphaeria,gelatinosa,Chlorophyta,cell,1,57.9,8,8,463
+24-010,AC,04/17/24,Stichococcus,sp.,Chlorophyta,cell,1,10.1,30,30,301
+24-010,AC,04/17/24,Nephrochlamys,subsolitaria,Chlorophyta,cell,1,7.2,30,30,215
+24-010,AC,04/17/24,Dictyosphaerium,primarium,Chlorophyta,colony,4,1.4,30,119,167
+24-010,AC,04/17/24,Koliella,sp.,Chlorophyta,cell,1,30.8,2,2,62
+24-010,AC,04/17/24,Planktolyngbya,sp.,Cyanobacteria,filament,54,2.3,179,"9,668","22,235"
+24-010,AC,04/17/24,Limnoraphis/Oscillatoria,sp.,Cyanobacteria,filament,23,321.7,1,23,"7,399"
+24-010,AC,04/17/24,Cyanogranis,ferruginea,Cyanobacteria,colony,8,0.9,776,"6,206","5,586"
+24-010,AC,04/17/24,Chroococcus,sp.,Cyanobacteria,colony,8,3.1,149,"1,194","3,700"
+24-010,AC,04/17/24,Pseudanabaena,limnetica,Cyanobacteria,filament,3,12.9,60,179,"2,309"
+24-010,AC,04/17/24,Cyanocatena,planctonica,Cyanobacteria,colony,32,1.4,45,"1,432","2,005"
+24-010,AC,04/17/24,Trachelomonas,volvocina,Euglenozoa,cell,1,"1,429.8",2,2,"2,860"
+24-010,AC,04/17/24,Euglena,sp.,Euglenozoa,cell,1,386.0,1,1,386
+24-011,CE,04/17/24,centric diatom,sp.,Bacillariophyta,cell,1,21.7,30,30,647
+24-011,CE,04/17/24,chlorophyte unicell,sp.,Chlorophyta,cell,1,11.5,418,418,"4,804"
+24-011,CE,04/17/24,Monoraphidum,irregulare,Chlorophyta,cell,1,5.4,448,448,"2,417"
+24-011,CE,04/17/24,Siderocelis,ornata,Chlorophyta,cell,1,22.9,30,30,683
+24-011,CE,04/17/24,Oocystis,solitaria,Chlorophyta,cell,1,514.7,1,1,515
+24-011,CE,04/17/24,Nephrochlamys,subsolitaria,Chlorophyta,cell,1,7.2,60,60,430
+24-011,CE,04/17/24,Pseudanabaena,limnetica,Cyanobacteria,filament,5,25.3,358,"1,790","45,294"
+24-011,CE,04/17/24,Planktolyngbya,sp.,Cyanobacteria,filament,80,181.0,0,30,"5,401"
+24-011,CE,04/17/24,cyanophyte unicell,sp.,Cyanobacteria,cell,1,11.5,30,30,343
+24-011,CE,04/17/24,Chroococcus,sp.,Cyanobacteria,colony,8,4.2,2,16,67
+24-011,CE,04/17/24,Parvodinium,inconspicuum,Dinophyceae,cell,1,"1,094.7",3,3,"3,284"
+24-011,CE,04/17/24,Euglena,sp.,Euglenozoa,cell,1,886.7,1,1,887
+24-012,MHPFILTROE3,04/17/24,centric diatom,sp.,Bacillariophyta,cell,1,39.4,30,30,"1,176"
+24-012,MHPFILTROE3,04/17/24,Achnanthidium,sp.,Bacillariophyta,cell,1,30.0,30,30,895
+24-012,MHPFILTROE3,04/17/24,chlorophyte unicell,sp.,Chlorophyta,cell,1,11.5,239,239,"2,745"
+24-012,MHPFILTROE3,04/17/24,Crucigenia,quadrata,Chlorophyta,colony,4,7.3,90,358,"2,614"
+24-012,MHPFILTROE3,04/17/24,Monoraphidum,irregulare,Chlorophyta,cell,1,7.1,328,328,"2,330"
+24-012,MHPFILTROE3,04/17/24,chlorophyte unicell,sp.,Chlorophyta,cell,1,57.9,30,30,"1,728"
+24-012,MHPFILTROE3,04/17/24,Oocystis,solitaria,Chlorophyta,cell,1,361.4,3,3,"1,084"
+24-012,MHPFILTROE3,04/17/24,Nephrochlamys,subsolitaria,Chlorophyta,cell,1,9.4,90,90,841
+24-012,MHPFILTROE3,04/17/24,Didymocystis,sp.,Chlorophyta,colony,2,11.7,30,60,698
+24-012,MHPFILTROE3,04/17/24,Oocystis,sp.,Chlorophyta,cell,1,23.0,30,30,686
+24-012,MHPFILTROE3,04/17/24,Planktosphaeria,gelatinosa,Chlorophyta,cell,1,17.2,20,20,344
+24-012,MHPFILTROE3,04/17/24,Ankistrodesmus,fusiformis,Chlorophyta,cell,1,22.6,4,4,90
+24-012,MHPFILTROE3,04/17/24,Pseudanabaena,limnetica,Cyanobacteria,filament,5,16.9,143,716,"12,100"
+24-012,MHPFILTROE3,04/17/24,Chroococcus,sp.,Cyanobacteria,colony,8,2.1,127,"1,014","2,130"
+24-012,MHPFILTROE3,04/17/24,Synechococcus,sp.,Cyanobacteria,cell,1,4.9,60,60,292
+24-012,MHPFILTROE3,04/17/24,Gymnodinium,sp.,Dinophyceae,cell,1,"2,261.9",1,1,"2,262"
+24-012,MHPFILTROE3,04/17/24,Parvodinium,inconspicuum,Dinophyceae,cell,1,"1,094.7",1,1,"1,095"
+24-012,MHPFILTROE3,04/17/24,Trachelomonas,sp.,Euglenozoa,cell,1,514.7,1,1,515
+24-013,MHPFILTROW3,04/17/24,centric diatom,sp.,Bacillariophyta,cell,1,25.3,60,60,"1,510"
+24-013,MHPFILTROW3,04/17/24,Cocconeis,placentula,Bacillariophyta,cell,1,"1,026.3",1,1,"1,026"
+24-013,MHPFILTROW3,04/17/24,Nitzschia,sp.,Bacillariophyta,cell,1,171.6,1,1,172
+24-013,MHPFILTROW3,04/17/24,Achnanthidium,minutissimum,Bacillariophyta,cell,1,32.8,1,1,33
+24-013,MHPFILTROW3,04/17/24,Closterium,acutum,Charophyta,cell,1,241.3,2,2,483
+24-013,MHPFILTROW3,04/17/24,chlorophyte unicell,sp.,Chlorophyta,cell,1,17.2,418,418,"7,185"
+24-013,MHPFILTROW3,04/17/24,Koliella,longiseta,Chlorophyta,cell,1,40.7,60,60,"2,429"
+24-013,MHPFILTROW3,04/17/24,Monoraphidum,irregulare,Chlorophyta,cell,1,6.3,179,179,"1,128"
+24-013,MHPFILTROW3,04/17/24,Oocystis,solitaria,Chlorophyta,cell,1,"1,094.7",1,1,"1,095"
+24-013,MHPFILTROW3,04/17/24,Nephrochlamys,subsolitaria,Chlorophyta,cell,1,7.2,30,30,215
+24-013,MHPFILTROW3,04/17/24,Scenedesmus,cf. ecornis,Chlorophyta,colony,2,3.3,30,60,197
+24-013,MHPFILTROW3,04/17/24,Monoraphidium,sp.,Chlorophyta,cell,1,12.3,2,2,25
+24-013,MHPFILTROW3,04/17/24,chrysophyte flagellate,sp.,Chrysophyceae,cell,1,17.2,60,60,"1,026"
+24-013,MHPFILTROW3,04/17/24,Pseudanabaena,limnetica,Cyanobacteria,filament,10,12.9,30,295,"3,806"
+24-013,MHPFILTROW3,04/17/24,Chroococcus,sp.,Cyanobacteria,colony ,16,3.1,48,776,"2,405"
+24-013,MHPFILTROW3,04/17/24,Synechococcus,sp.,Cyanobacteria,cell,1,4.3,298,298,"1,283"
+24-013,MHPFILTROW3,04/17/24,Cyanogranis,ferruginea,Cyanobacteria,colony,8,0.9,60,477,430
+24-013,MHPFILTROW3,04/17/24,Parvodinium,inconspicuum,Dinophyceae,cell,1,"1,094.7",8,8,"8,758"
+24-013,MHPFILTROW3,04/17/24,Peridinium,sp.,Dinophyceae,cell,1,"6,082.1",1,1,"6,082"
+24-014,TAG,04/17/24,Fragilaria,sp.,Bacillariophyta,cell,1,193.0,149,149,"28,794"
+24-014,TAG,04/17/24,Fragilaria,crotonensis,Bacillariophyta,cell,1,738.9,38,38,"28,078"
+24-014,TAG,04/17/24,Achnanthidium,minutissimum,Bacillariophyta,cell,1,42.9,507,507,"21,761"
+24-014,TAG,04/17/24,Synedra,nana,Bacillariophyta,cell,1,147.8,65,65,"9,607"
+24-014,TAG,04/17/24,Fragilaria,crotonensis,Bacillariophyta,cell,1,253.3,30,30,"7,558"
+24-014,TAG,04/17/24,centric diatom,sp.,Bacillariophyta,cell,1,25.3,239,239,"6,039"
+24-014,TAG,04/17/24,Aulacoseira,granulata v. angustissima,Bacillariophyta,filament,4,434.3,1,4,"1,737"
+24-014,TAG,04/17/24,Achnanthidium,sp.,Bacillariophyta,cell,1,9.9,30,30,295
+24-014,TAG,04/17/24,Mougeotia,sp.,Charophyta,filament,3,643.4,13,38,"24,449"
+24-014,TAG,04/17/24,Teilingia,granulatum,Charophyta,cell,1,78.8,179,179,"14,107"
+24-014,TAG,04/17/24,Cosmarium,cf. abbreviatum,Charophyta,cell,1,103.4,60,60,"6,170"
+24-014,TAG,04/17/24,Cosmarium,sp.,Charophyta,cell,1,"1,117.0",5,5,"5,585"
+24-014,TAG,04/17/24,Staurastrum,micron,Charophyta,cell,1,"2,356.2",2,2,"4,712"
+24-014,TAG,04/17/24,Staurastrum,brachiatum,Charophyta,cell,1,"1,520.5",3,3,"4,562"
+24-014,TAG,04/17/24,Closterium,acutum,Charophyta,cell,1,153.9,18,18,"2,770"
+24-014,TAG,04/17/24,Spondylosium,planum,Charophyta,cell,1,78.8,30,30,"2,351"
+24-014,TAG,04/17/24,Staurastrum,tectum v. ayayensis,Charophyta,cell,1,698.1,3,3,"2,094"
+24-014,TAG,04/17/24,Staurastrum,tetracerum,Charophyta,cell,1,210.2,9,9,"1,892"
+24-014,TAG,04/17/24,chlorophyte unicell,sp.,Chlorophyta,cell,1,11.5,"4,476","4,476","51,471"
+24-014,TAG,04/17/24,Botryococcus,braunii,Chlorophyta,colony,1,"22,340.2",1,1,"22,340"
+24-014,TAG,04/17/24,chlorophyte unicell,sp.,Chlorophyta,cell,1,17.2,"1,194","1,194","20,529"
+24-014,TAG,04/17/24,Koliella,longiseta,Chlorophyta,cell,1,33.9,298,298,"10,115"
+24-014,TAG,04/17/24,Oocystis,sp.,Chlorophyta,cell,1,30.0,269,269,"8,056"
+24-014,TAG,04/17/24,Tetraedron,caudatum,Chlorophyta,cell,1,87.4,60,60,"5,216"
+24-014,TAG,04/17/24,Monoraphidum,irregulare,Chlorophyta,cell,1,6.3,716,716,"4,512"
+24-014,TAG,04/17/24,Chlamydomonas,sp.,Chlorophyta,cell,1,310.3,12,12,"3,724"
+24-014,TAG,04/17/24,Crucigenia,quadrata,Chlorophyta,colony,4,7.3,45,179,"1,307"
+24-014,TAG,04/17/24,Siderocelis,ornata,Chlorophyta,cell,1,35.7,30,30,"1,065"
+24-014,TAG,04/17/24,Nephrochlamys,subsolitaria,Chlorophyta,cell,1,7.2,119,119,859
+24-014,TAG,04/17/24,Stichococcus,sp.,Chlorophyta,cell,1,3.3,90,90,295
+24-014,TAG,04/17/24,Scenedesmus,cf. eecornis,Chlorophyta,colony,2,3.3,30,60,197
+24-014,TAG,04/17/24,Pseudanabaena,limnetica,Cyanobacteria,filament,5,30.2,549,"2,745","82,902"
+24-014,TAG,04/17/24,Raphidiopsis,raciborskii,Cyanobacteria,filament,7,29.6,358,"2,506","74,189"
+24-014,TAG,04/17/24,Cyanogranis,ferruginea,Cyanobacteria,colony,8,0.9,"2,685","21,483","19,335"
+24-014,TAG,04/17/24,cyanophyte unicell,sp.,Cyanobacteria,cell,1,57.9,239,239,"13,838"
+24-014,TAG,04/17/24,Planktolyngbya,sp.,Cyanobacteria,filament,28,2.3,149,"4,177","9,608"
+24-014,TAG,04/17/24,Limnoraphis/Oscillatoria,sp.,Cyanobacteria,filament,10,321.7,1,10,"3,217"
+24-014,TAG,04/17/24,Peridinium,elpatiewskyi,Dinophyceae,cell,1,"4,054.8",24,24,"97,315"
+24-014,TAG,04/17/24,Parvodinium,pusillum,Dinophyceae,cell,1,551.7,60,60,"32,923"
+24-014,TAG,04/17/24,Gymnodinium,sp.,Dinophyceae,cell,1,120.1,30,30,"3,584"
+24-014,TAG,04/17/24,Trachelomonas,cf. hispida,Euglenozoa,cell,1,"5,026.5",5,5,"25,133"
+24-014,TAG,04/17/24,Goniochloris,sp.,Eustigmatophyceae,cell,1,"4,608.0",2,2,"9,216"
